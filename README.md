@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sulaimon Buhari
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java web development 
+- 💞️ I’m looking to collaborate on Java web application development 
 - 📫 You can reach me through buharisulaiman@gmail.com
 
 <!---
